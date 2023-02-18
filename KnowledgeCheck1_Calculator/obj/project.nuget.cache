@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "U9n38JAU2s8Q/c8108QZOyR5Y133ySKTq6RHiwYo9cc7lDJO22rFsae+UsVUOue70pUcDRNrYUkXLQ6cV4ez3Q==",
+  "success": true,
+  "projectFilePath": "/Users/matthewmeadows4/Desktop/Repos/Knowledge-Check-1/KnowledgeCheck1_Calculator/KnowledgeCheck1_Calculator.csproj",
+  "expectedPackageFiles": [
+    "/Users/matthewmeadows4/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/matthewmeadows4/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/matthewmeadows4/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
